@@ -2,7 +2,7 @@ import './listPage.scss'
 
 function ListPage(){
     return(
-        <div className="listPage"></div>
+        <div className="listPage">List Page</div>
     )
 }
 
